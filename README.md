@@ -2,6 +2,10 @@
    ## WELCOME TO MY PROFILE
 <p align="center"><a href="https://github.com/python-life"><img src="img.gif" height='300' alt="PYTHON LIFE">
 
+<a href="https://github.com/python-life"><img title="PYTHON-LIFE" src="https://github-readme-stats.vercel.app/api?username=python-life&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
+
+
 <p align="left">
 <a href="#"><img title="Made in Algeria" src="https://img.shields.io/badge/MADE%20IN-Algérie-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <a href ="#"><src="https://img.shields.io/amo/stars/:addonId"></a>
