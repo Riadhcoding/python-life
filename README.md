@@ -1,6 +1,7 @@
 
+### WELCOME TO MY PROFILE
 <p align="left">
-###      WELCOME TO MY PROFILE
+
 <p align="center"><a href="https://github.com/python-life"><img src="img.gif" height='195' alt="PYTHON LIFE">
 <a href="https://github.com/python-life"><img title="python-life" src="https://github-readme-stats.vercel.app/api?username=python-life&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
