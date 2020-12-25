@@ -11,10 +11,10 @@
  
 
 ### Languages and Tools:
-</code>]
+[<code>
 <img align="left" alt="Terminal" width="26px" src="icon/bash.jpg" />
 </code>](https://github.com/python-life)
-</code>]
+[<code>
 <img align="left" alt="Terminal" width="26px" src="icon/php.png" />
 </code>](https://github.com/python-life)
 
