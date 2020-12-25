@@ -11,7 +11,9 @@
   <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats## Find Me on :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=python-life&langs_count=8)](https://github.com/python-life/github-readme-stats
+
+## Find Me on :
 
 [![Github](https://img.shields.io/badge/github-python--life-green?style=for-the-badge&logo=github)](https://github.com/python-life)
 [![Instagram](https://img.shields.io/badge/instagram-python.life-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/python.life)
