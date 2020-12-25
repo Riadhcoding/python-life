@@ -13,7 +13,7 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://img.captain-droid.com/wp-content/uploads/2019/05/com-termux-icon.png" />
 
-<img align="left" alt="pycharm" width="35px" src="https://w7.pngwing.com/pngs/639/10/png-transparent-pycharm-jetbrains-intellij-idea-integrated-development-environment-python-%E8%AE%B0%E4%BA%8B%E6%9C%AC-angle-text-logo.png" />
+<img align="left" alt="pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />
 
 
 ## Find Me on :
