@@ -9,11 +9,10 @@
 <a href ="#"><src="https://img.shields.io/amo/stars/:addonId"></a>
   <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 
-[![Github](https://img.shields.io/badge/github-hello--world-green?style=for-the-badge&logo=github)](https://github.com/id-dz)
 
 
 ## Find Me on :
 
 [![Github](https://img.shields.io/badge/github-python--life-green?style=for-the-badge&logo=github)](https://github.com/python-life)
 [![Instagram](https://img.shields.io/badge/instagram-python.life-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/python.life)
-[![Youtube](https://img.shields.io/badge/YouTube-python%20life-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/pythonlife)
+[![Youtube](https://img.shields.io/badge/YouTube-python%20life-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/pythonlife)
