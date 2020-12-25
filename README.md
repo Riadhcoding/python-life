@@ -11,7 +11,7 @@
   <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 
 # Languages and Tools :
-[!Termux](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Termux](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 ## Find Me on :
 
