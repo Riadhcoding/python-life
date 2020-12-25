@@ -27,7 +27,7 @@
 
   
   
-## Find Me on :
+## - Find Me on :
 
 [![Github](https://img.shields.io/badge/github-python--life-green?style=for-the-badge&logo=github)](https://github.com/python-life)
 [![Instagram](https://img.shields.io/badge/instagram-python.life-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/python.life)
