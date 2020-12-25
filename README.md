@@ -1,6 +1,5 @@
 
 # WELCOME TO MY PROFILE
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=python-life&show_icons=true&locale=en&layout=compact" alt="python-life" /></p>
 <p align="center"><a href="https://github.com/python-life"><img src="i1.gif" height='195' alt="PYTHON LIFE">
   <p align="center"><a href="https://github.com/python-life"><img src="i2.gif" height='195' alt="PYTHON LIFE">
 <a href="https://github.com/python-life"><img title="python-life" src="https://github-readme-stats.vercel.app/api?username=python-life&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
