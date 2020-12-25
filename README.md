@@ -11,33 +11,15 @@
  
 
 ### Languages and Tools:
-[<code>
 <img align="left" alt="Terminal" width="26px" src="icon/bash.jpg" >
-(https://github.com/python-life)
-[<code>
 <img align="left" alt="Terminal" width="26px" src="icon/php.png" >
-(https://github.com/python-life)
-[<code>
 <img align="left" alt="Terminal" width="26px" src="icon/python.png" >
-(https://github.com/python-life)
-[<code>
 <img align="left" alt="Terminal" width="26px" src="icon/pydroid.png" >
-(https://github.com/python-life)
-[<code>
 <img align="left" alt="Terminal" width="26px" src="icon/pycharm.png" >
-(https://github.com/python-life)
-[<code>
 <img align="left" alt="Terminal" width="26px" src="icon/git.png" >
-(https://github.com/python-life)
-[<code>
 <img align="left" alt="Terminal" width="26px" src="icon/termux.jpg" >
-(https://github.com/python-life)
-[<code>
 <img align="left" alt="Terminal" width="26px" src="icon/windows.png" >
-(https://github.com/python-life)
-[<code>
 <img align="left" alt="Terminal" width="26px" src="icon/android.png" >
-(https://github.com/python-life)
 
 <br />
 <h1 align="center">Find Me on :
