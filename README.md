@@ -12,7 +12,7 @@
 
 # Languages and Tools :
 ![Termux](https://github-readme-stats.vercel.app/api?username=python-life&show_icons=true)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ## Find Me on :
 
 [![Github](https://img.shields.io/badge/github-python--life-green?style=for-the-badge&logo=github)](https://github.com/python-life)
