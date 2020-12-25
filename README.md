@@ -9,14 +9,10 @@
   <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
  
  
-<img align="left" alt="Terminal" width="26px" src="icon/bash.jpg" />
+
 ### Languages and Tools:
-
-<img align="left" alt="Terminal" width="26px" src="https://img.captain-droid.com/wp-content/uploads/2019/05/com-termux-icon.png" />
-
-<img align="left" alt="pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />
-
-<img align="left" alt="python" width="26px" src="https://camo.githubusercontent.com/91de473fa3f2f749a56effc3e64f1049d108251f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" />
+<img align="left" alt="Terminal" width="26px" src="icon/bash.jpg" />
+<p align="left">
 
 </p>
 </p>
