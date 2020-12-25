@@ -11,7 +11,6 @@
   <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=python-life&langs_count=8)
 
 ## Find Me on :
 
