@@ -31,4 +31,6 @@
 [![Youtube](https://img.shields.io/badge/YouTube-python%20life-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/pythonlife)
 
 
+# Buy me coffee starting at $ 1 via PayPal
+
 <img align="left" alt="Terminal" width="200px" src="icon/by.png">
