@@ -30,4 +30,4 @@
 [![Instagram](https://img.shields.io/badge/instagram-python.life-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/python.life)
 [![Youtube](https://img.shields.io/badge/YouTube-python%20life-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/pythonlife)
 
-src="icon/by.png" >
+< img src="icon/by.png" >
