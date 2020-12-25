@@ -35,4 +35,4 @@
 
 [<code>
 <img alt="by me" width="200px" src="icon/by.png" />
-</code>](https://www.paypal.com/riadhat31@gmail.com)
+</code>](https://www.paypal.me/riadhat31@gmail.com)
