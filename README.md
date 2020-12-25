@@ -33,4 +33,4 @@
 
 # Buy me coffee starting at $ 1 via PayPal
 
-<img align="left" alt="Terminal" width="200px" src="icon/by.png">
+<img align="left" alt="Terminal" width="200px" src="icon/by.png">(https://www.paypal.com/riadhat31@gmail.com)
