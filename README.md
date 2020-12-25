@@ -11,8 +11,7 @@
  
 
 ### Languages and Tools:
-<img align="left" alt="Terminal" width="26px" src="icon/bash.jpg" />
-<p align="left">
+
   <img align="left" alt="Terminal" width="26px" src="icon/bash.jpg" />
   <img align="left" alt="Terminal" width="26px" src="icon/php.png" />
   <img align="left" alt="Terminal" width="26px" src="icon/python.png" />
