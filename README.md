@@ -11,7 +11,7 @@
   
 ### Languages and Tools:
 
-[<img align="left" alt="Terminal" width="26px" src="https://img.captain-droid.com/wp-content/uploads/2019/05/com-termux-icon.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://img.captain-droid.com/wp-content/uploads/2019/05/com-termux-icon.png" />
 
 
 
