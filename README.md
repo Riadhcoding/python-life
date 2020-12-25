@@ -13,31 +13,31 @@
 ### Languages and Tools:
 [<code>
 <img align="left" alt="Terminal" width="26px" src="icon/bash.jpg" >
-</code>](https://github.com/python-life)
+(https://github.com/python-life)
 [<code>
 <img align="left" alt="Terminal" width="26px" src="icon/php.png" >
-</code>](https://github.com/python-life)
+(https://github.com/python-life)
 [<code>
 <img align="left" alt="Terminal" width="26px" src="icon/python.png" >
-</code>](https://github.com/python-life)
+(https://github.com/python-life)
 [<code>
 <img align="left" alt="Terminal" width="26px" src="icon/pydroid.png" >
-</code>](https://github.com/python-life)
+(https://github.com/python-life)
 [<code>
 <img align="left" alt="Terminal" width="26px" src="icon/pycharm.png" >
-</code>](https://github.com/python-life)
+(https://github.com/python-life)
 [<code>
 <img align="left" alt="Terminal" width="26px" src="icon/git.png" >
-</code>](https://github.com/python-life)
+(https://github.com/python-life)
 [<code>
 <img align="left" alt="Terminal" width="26px" src="icon/termux.jpg" >
-</code>](https://github.com/python-life)
+(https://github.com/python-life)
 [<code>
 <img align="left" alt="Terminal" width="26px" src="icon/windows.png" >
-</code>](https://github.com/python-life)
+(https://github.com/python-life)
 [<code>
 <img align="left" alt="Terminal" width="26px" src="icon/android.png" >
-</code>](https://github.com/python-life)
+(https://github.com/python-life)
 
 <br />
 <h1 align="center">Find Me on :
