@@ -31,4 +31,4 @@
 [![Youtube](https://img.shields.io/badge/YouTube-python%20life-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/pythonlife)
 
 
-<img align="left" alt="Terminal" width="50px" src="icon/by.png">
+<img align="left" alt="Terminal" width="200px" src="icon/by.png">
