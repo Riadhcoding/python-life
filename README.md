@@ -14,9 +14,6 @@
 <img align="left" alt="Terminal" width="26px" src="icon/bash.jpg" />
 <p align="left">
 
-</p>
-</p>
-
 
 
 
