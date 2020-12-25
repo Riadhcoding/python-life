@@ -17,6 +17,7 @@
   <img align="left" alt="Terminal" width="26px" src="icon/python.png" />
   <img align="left" alt="Terminal" width="26px" src="icon/pydroid.png" />
    <img align="left" alt="Terminal" width="26px" src="icon/pycharm.png" />
+   <img align="left" alt="Terminal" width="26px" src="icon/git.png" />
      <img align="left" alt="Terminal" width="26px" src="icon/termux.jpg" />
        <img align="left" alt="Terminal" width="26px" src="icon/windows.png" />
          <img align="left" alt="Terminal" width="26px" src="icon/android.png" />
