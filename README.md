@@ -15,7 +15,7 @@
 
 <img align="left" alt="pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />
 
-<img align="left" alt="python" width="26px" src="<img align="left" alt="pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />
+<img align="left" alt="python" width="26px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />
 " />
 
 </p>
