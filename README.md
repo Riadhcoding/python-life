@@ -9,6 +9,7 @@
 <a href ="#"><src="https://img.shields.io/amo/stars/:addonId"></a>
   <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 
+[![Github](https://img.shields.io/badge/github-hello--world-green?style=for-the-badge&logo=github)](https://github.com/id-dz)
 
 
 ## Find Me on :
