@@ -23,7 +23,8 @@
        <img align="left" alt="Terminal" width="26px" src="icon/windows.png" />
          <img align="left" alt="Terminal" width="26px" src="icon/android.png" />
          
-</p>
+
+<p align="left">
 ## Find Me on :
 
 [![Github](https://img.shields.io/badge/github-python--life-green?style=for-the-badge&logo=github)](https://github.com/python-life)
