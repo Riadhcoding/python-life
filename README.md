@@ -33,4 +33,6 @@
 
 # Buy me coffee starting at $ 1 via PayPal
 
-[<img align="left" alt="Terminal" width="200px" src="icon/by.png">](https://www.paypal.com/riadhat31@gmail.com)
+[<code>
+<img alt="by me" width="200px" src="icon/by.png" />
+</code>](https://www.paypal.com/riadhat31@gmail.com)
