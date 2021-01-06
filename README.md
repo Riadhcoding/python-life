@@ -2,7 +2,7 @@
 <h1 align="center">WELCOME TO MY PROFILE
 
 ![gambar](https://img.shields.io/github/followers/python-life?color=follow&label=follow&logo=follow&logoColor=follow&style=social)
-[![gambar](https://img.shields.io/youtube/views/https://youtu.be/9fZQg1TpzKY?label=Subscribes&style=social)](https://www.youtube.com/watch?v=9fZQg1TpzKY&t=10s)
+![gambar](https://img.shields.io/youtube/views/https://youtu.be/9fZQg1TpzKY?label=Subscribes&style=social)(https://www.youtube.com/watch?v=9fZQg1TpzKY&t=10s)
 
 <p align="center">
 <a href="https://github.com/python-life"><img title="python-life" src="https://github-readme-stats.vercel.app/api?username=python-life&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200"></a>
