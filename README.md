@@ -1,6 +1,6 @@
   
 <h1 align="center">WELCOME TO MY PROFILE
-/github/followers/:python-life?label=Follow
+
   
 ![gambar](https://img.shields.io//github/followers/:python-life?label=Follow)
   
